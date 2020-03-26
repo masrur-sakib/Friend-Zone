@@ -1,0 +1,17 @@
+.header{
+    background-color: aqua;
+}
+.logo{
+    padding: 5px 50px;
+    text-align: left;
+}
+.logo img{
+    height: 100px;
+}
+.menu{
+    padding-right: 50px;
+    text-align: right;
+}
+li a{
+    font-size: 20px;
+}

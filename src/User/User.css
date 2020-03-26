@@ -1,0 +1,19 @@
+.img_container img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.user{
+    width: 45%;
+    float: left;
+    text-align: left;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px gray;
+    transition: all .2s ease-in-out;
+}
+.user:hover{
+    transform: scale(0.98);
+}
