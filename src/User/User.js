@@ -8,10 +8,10 @@ const User = (props) => {
     return (
         <div>
             <div className="row user">
-                <div className="col-md-4 img_container">
+                <div className="col-lg-4 img_container">
                     <img src={props.user.picture} alt="" />
                 </div>
-                <div className="col-md-8">
+                <div className="col-lg-8">
                     <h4><a href="">{props.user.name}</a></h4>
                     <h6>Email: {props.user.email}</h6>
                     <h6>Phone: {props.user.phone}</h6>

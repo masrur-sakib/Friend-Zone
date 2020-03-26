@@ -105,7 +105,7 @@ const fakeData = [
       "picture": "https://randomuser.me/api/portraits/women/65.jpg",
       "salary": "50000",
       "username": "Kamren",
-      "email": "Lucio_Hettinger@annie.ca",
+      "email": "Hettinger@annie.ca",
       "address": {
         "street": "Skiles Walks",
         "suite": "Suite 351",
